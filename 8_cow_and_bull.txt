@@ -1,0 +1,12 @@
+================================
+WELCOME TO COW N BULL GAME
+================================
+rank#	nickname	try_count
+================================
+1,	ojjy90,	3
+2,	kelly,	5
+3,	nbcn,	15
+4,	hello,	16
+5,	woogawooga,	20
+6,	andy,	40
+7,	yjjo,	300
