@@ -1,3 +1,4 @@
+# Python 3.7.2/win10 64bit/IDE:Pycharm 2018.3.3
 # get the max val by generating array as the user length
 
 from random import randint
