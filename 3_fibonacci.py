@@ -1,3 +1,5 @@
+# Python 3.7.2/win10 64bit/IDE:Pycharm 2018.3.3
+
 #   solution1. By using array
 fibo_arr_length=3#int(input("How many generate the series of fibonacci? \n => "))
 
