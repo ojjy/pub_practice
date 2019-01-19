@@ -1,5 +1,6 @@
-#10 numbers generate random number from 3 to user max
-#and check whether it is prime num or not and push the prime number at the array
+# Python 3.7.2/win10 64bit/IDE:Pycharm 2018.3.3
+# 10 numbers generate random number from 3 to user max
+# and check whether it is prime num or not and push the prime number at the array
 
 from random import randint
 
