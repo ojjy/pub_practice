@@ -47,3 +47,11 @@ try:
     raise IndexError
 except IndexError:
     print("terminate normally")
+
+
+numlist=['hundred', 'thousand', 'million', 'billion']
+charlist=[100, 1000, 100000, 1000000]
+nc_dict={"{}".format(numlist):charlist for numlist, charlist in zip(numlist, charlist)}
+
+print(type(nc_dict))
+
